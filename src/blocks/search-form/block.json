@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "name":"roudram-create-blocks/search-form",
+    "title": "Search Form",
+    "category":"text",
+    "description": "Add  a search form",
+    "keywords": ["search form"],
+    "version": "1",
+    "textdomain": "roudram-create-blocks",
+    "editorScript":"file:./index.js",
+    "attributes": {},
+     "style":"file:./index.css"
+}
